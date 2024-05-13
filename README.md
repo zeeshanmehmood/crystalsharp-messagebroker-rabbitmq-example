@@ -12,8 +12,8 @@ This example uses `RabbitMQ` as a message broker.
 ### How to Run
 
 * `RabbitMQ` server must be running.
-* Change the `RabbitMQ` settings in `appsettings.json` file in `WebAPI` project.
-* Change the `RabbitMQ` settings in `appsettings.json` file in `Console` application.
+* Change the `RabbitMQ` settings in `appsettings.json` file in the `WebAPI` project.
+* Change the `RabbitMQ` settings in `appsettings.json` file in the `Console` application.
 * Change the `Queue` name in the `OrderController.cs` file.
 * Change the `Queue` name in the `Console` application `Program.cs` file.
 * `Queue` name must exist on the `RabbitMQ` server.
