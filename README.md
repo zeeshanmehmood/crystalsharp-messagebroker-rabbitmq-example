@@ -1,5 +1,5 @@
 # Crystal Sharp - Message Broker RabbitMQ Example
-Crystal Sharp framework - Message Broker code example with `RabbitMQ`.
+Crystal Sharp framework - `Message Broker` code example with `RabbitMQ`.
 
 
 ### About This Example
